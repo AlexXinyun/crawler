@@ -11,3 +11,4 @@ class GameItem(scrapy.Item):
     # name = scrapy.Field()
 
     print('进行一次修改')
+    print('进行2次修改')
